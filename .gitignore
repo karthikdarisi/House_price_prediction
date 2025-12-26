@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+.env
+venv/
+
+# Ignore the entire data folder (keeps your repo light!)
+data/
